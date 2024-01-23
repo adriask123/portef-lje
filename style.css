@@ -97,6 +97,10 @@
   position: relative;
   width: 50%;
  }
- 
-
+ .adrian {
+  display: inline;
+  height: 300px;
+  width: 300px;
+  float: left;
+}
  
